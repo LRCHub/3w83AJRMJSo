@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フーズ・テイキング・ユー・ホーム",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T11:44:08.837281Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who's Taking You Home",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Who's_Taking_You_Home_Ne-Yo.txt"
+    }
+  ]
+}
